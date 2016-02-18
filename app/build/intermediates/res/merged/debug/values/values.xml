@@ -207,6 +207,12 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/E:/backup2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/backup2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
     <item name="dialog_fixed_width_major" type="dimen">320dp</item>
@@ -271,6 +277,7 @@
     <string name="accept">Accept</string>
     <!-- From: file:/E:/backup2/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="action_settings">Settings</string>
     <string name="app_name">BikeTracker</string>
     <!-- From: file:/E:/backup2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml -->
     <eat-comment/>
@@ -334,6 +341,7 @@
     </string>
     <!-- From: file:/E:/backup2/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="hello_world">Hello world!</string>
     <string name="login_title">Please Login...</string>
     <!-- From: file:/E:/backup2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
@@ -361,6 +369,7 @@
     <!-- From: file:/E:/backup2/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_maps">Bike Tracker</string>
+    <string name="title_activity_test_connected_motion">TestConnectedMotion</string>
     <string name="username_title">Username</string>
     <!-- From: file:/E:/backup2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/res/values/wallet_strings.xml -->
     <eat-comment/>
